@@ -6,6 +6,7 @@ My favourite applications and their features:
 1. Instagram: 
 
     a)Reacting to individual messages with emojis of the users choice (❤️, 🤣) etc
+    
     b)Being able to select the desired portion of music to put in stories on instagram such as (0.40 sec to 0.55 seconds)
     
     c)Hiding stories from certain followers in the stories settings
