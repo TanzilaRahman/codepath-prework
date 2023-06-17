@@ -1,6 +1,7 @@
 # codepath-prework
 Codepath Prework project: IOS101
 
+![Kapture 2023-06-16 at 23 11 13](https://github.com/TanzilaRahman/codepath-prework/assets/110073037/bfc373fe-0e5b-4127-8598-5fda38ecaafb.gif)
 
 
 APP Brainstorming:
